@@ -4,9 +4,27 @@ import "./QuemSomos.css"
 function QuemSomos() {
   return (
    
-    <div className="Quadrado">  
-      <h1 className="Titulo"> Quem somos </h1>
-      <h2> Empresa: </h2>
+    <div className="Pagina">  
+      <h1 className="Titulo">Quem somos</h1>
+      <h2 className = "Subtitulo"> Empresa: </h2>
+     <img src="/imagem/foto.jpg" alt=""/>
+
+<div className = "Meio"> 
+
+<img src="/imagem/foto.jpg" alt=""/>
+<h1> Pessoas são assim </h1>
+
+</div>
+
+<div> 
+<img src="/imagem/foto.jpg" alt=""/>
+    <h1> Dúvidas Frequentes</h1>
+
+
+
+</div>
+
+
     </div>
 
   );
