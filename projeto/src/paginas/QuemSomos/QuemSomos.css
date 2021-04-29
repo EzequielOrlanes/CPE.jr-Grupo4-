@@ -1,24 +1,41 @@
+.PaginaInteira{
+    background-color:white;
+    width: auto;
+}
+
+.Cabeçalho{
+text-align: left;
+width: auto;
+}
+.h1{
+text-align: right;
+width: auto;
+}
 .Subtitulo{
     color: red;
+    width: auto;
 }
 
 img{
-    image-orientation: center;
-    height: 200px;
+width: auto;
+    height: 180px;
 }
 
 .Meio{
     text-align: center;
     background:rgb(136, 105, 111);
+    width: auto;
 }
 
 .foto.jpg{
     text-align: center;
     border: indigo; 
+    width: auto;
 }
 
 
 .quemSomos{
     align-items: center;
     background-color: aqua;
+    width: auto;
 }
