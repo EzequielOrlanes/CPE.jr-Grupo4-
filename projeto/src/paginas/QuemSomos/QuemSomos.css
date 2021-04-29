@@ -1,13 +1,24 @@
+.Subtitulo{
+    color: red;
+}
 
-.Titulo{
-    font: serif;
-    background-color: aqua;
+img{
+    image-orientation: center;
+    height: 200px;
+}
+
+.Meio{
+    text-align: center;
+    background:rgb(136, 105, 111);
+}
+
+.foto.jpg{
+    text-align: center;
+    border: indigo; 
 }
 
 
-.Quadrado{
-
-background: blueviolet;
-
-
+.quemSomos{
+    align-items: center;
+    background-color: aqua;
 }
