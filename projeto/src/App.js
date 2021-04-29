@@ -1,14 +1,9 @@
 import React from "react";
-import QuemSomos from "./paginas/QuemSomos/QuemSomos";
-
+import Routes from "./routes"
 
 function App() {
   return (
-    <div>  
-
-     <QuemSomos/>
-
-    </div>
+    <Routes />
   );
 }
 
