@@ -12,7 +12,11 @@ import QuemSomos from "./paginas/QuemSomos";
 function Routes(){
     return(
         <BrowserRouter>
+<<<<<<< HEAD
             <Switch>           
+=======
+            <Switch> 
+>>>>>>> origin/QuemSomos
                 <Route path="/Login" component={Login}/>
                 <Route path="/Home" component={Home}/>
                 <Route path="/Empreendimentos" component={Empreendimentos}/>
@@ -21,7 +25,11 @@ function Routes(){
                 <Route path="/Cadastro" component={Cadastro}/>
                 <Route path="/QuemSomos" component={QuemSomos}/>
             </Switch>
+<<<<<<< HEAD
         </BrowserRouter>
+=======
+        </BrowserRouter> 
+>>>>>>> origin/QuemSomos
 
     );
 }
