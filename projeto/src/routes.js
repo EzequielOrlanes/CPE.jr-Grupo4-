@@ -6,13 +6,13 @@ import Empresas from "./paginas/Empresas";
 import Home from "./paginas/Home";
 import Login from "./paginas/Login";
 import Perfil from "./paginas/Perfil";
-import QuemSomos from "./paginas/QuemSomos";*/
+import QuemSomos from "./paginas/QuemSomos";
 
-/*
+
 function Routes(){
     return(
         <BrowserRouter>
-            <Switch> 
+            <Switch>           
                 <Route path="/Login" component={Login}/>
                 <Route path="/Home" component={Home}/>
                 <Route path="/Empreendimentos" component={Empreendimentos}/>
